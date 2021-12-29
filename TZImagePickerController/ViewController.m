@@ -78,7 +78,7 @@
         }
         NSDictionary *titleTextAttributes = [tzBarItem titleTextAttributesForState:UIControlStateNormal];
         [BarItem setTitleTextAttributes:titleTextAttributes forState:UIControlStateNormal];
- 
+ // TODO: 测试～～～～
     }
     return _imagePickerVc;
 }
